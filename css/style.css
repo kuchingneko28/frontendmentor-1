@@ -13,6 +13,10 @@ body {
   padding: 2rem;
   line-height: 1.5;
   color: white;
+  background: hsl(233, 47%, 7%);
+  padding-top: 100px;
+  width: 80%;
+  margin: auto;
 }
 h2 {
   font-weight: 700;
